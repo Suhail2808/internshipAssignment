@@ -1,2 +1,0 @@
-# internshipAssignment
-Internshala task
